@@ -1,0 +1,7 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+https://en.wikipedia.org/wiki/Enron_scandal
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html
+https://towardsdatascience.com/accuracy-precision-
+recall-or-f1-331fb37c5cb9
+
